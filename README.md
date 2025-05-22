@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Koray Erdem
 
-<!--
-**ErdemKoray/ErdemKoray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a backend developer passionate about clean architecture, scalable systems, and elegant code.
 
-Here are some ideas to get you started:
+## 💻 Technologies & Tools I Use
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C# / .NET 6/7
+- ASP.NET Core Web API
+- Entity Framework Core
+- SQL Server / PostgreSQL
+- Docker & Git
+- Clean Architecture Principles
+
+## 📊 GitHub Stats
+
+![Koray's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErdemKoray&show_icons=true&theme=tokyonight&hide_title=false)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErdemKoray&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ErdemKoray&theme=tokyonight)
+
+## 📫 Connect with Me
+
+- 📧 Email: erdemkoray@pm.me
+- 💼 LinkedIn: [linkedin.com/in/korayerdem]([https://linkedin.com/in/korayerdem](https://www.linkedin.com/in/koray-erdem/))  
